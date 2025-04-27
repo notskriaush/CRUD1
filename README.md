@@ -9,3 +9,11 @@ Retrieve all entries or a specific entry
 Update existing entries
 
 Delete entries
+## Project structure:
+Controller — handles API requests.
+
+Service — business logic for CRUD operations.
+
+Repository — interfaces to interact with the database.
+
+Model — entity classes.
