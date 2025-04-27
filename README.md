@@ -14,6 +14,6 @@ Controller — handles API requests.
 
 Service — business logic for CRUD operations.
 
-Repository — interfaces to interact with the database.
+Repository — interface to interact with the database.
 
-Model — entity classes.
+Model — entity class.
